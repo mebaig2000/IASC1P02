@@ -1,0 +1,25 @@
+.Edit1{
+  color: red;
+}
+.Edit2{
+  font-size: 10px;
+}
+.Edit3{
+  font-style: italic;
+}
+.Edit4{
+  text-transform: uppercase;
+}
+.Edit8{
+    width: 150px;
+    box-sizing: border-box;
+    border: 5px black solid;
+    background-color: rgb(196,226,255);
+    margin-bottom: 25cm;
+    margin-right: 2px;
+    margin-top:6px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.Edit9{}
